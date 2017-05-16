@@ -22,6 +22,11 @@ Modules:
    * Privatemsg
    * Simple FB Connect
    * Chaos Tools
+   * Devel
+   * Libraries
+   * Entity
+   * X Autoload
+   * Profile 2
 
 ### Copyright Information
 
